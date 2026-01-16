@@ -1,2 +1,2 @@
-# Maze Solver using A*
+# Maze Solver using A* search
 Maze Solver using A* search.
